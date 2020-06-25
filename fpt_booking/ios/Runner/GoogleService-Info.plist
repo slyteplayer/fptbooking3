@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>59705492096-hsg7kdi9v9f56tdpt8r6phpv3lkresc7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.59705492096-hsg7kdi9v9f56tdpt8r6phpv3lkresc7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0cV1n4CZDhf50L0xzxcChskOnDwhdIpc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>59705492096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ts.fptbookingdemo</string>
+	<key>PROJECT_ID</key>
+	<string>fpt-booking</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fpt-booking.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:59705492096:ios:f9674ba0c48443d2d59c65</string>
+	<key>DATABASE_URL</key>
+	<string>https://fpt-booking.firebaseio.com</string>
+</dict>
+</plist>

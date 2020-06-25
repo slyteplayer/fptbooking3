@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59705492096",
+    "firebase_url": "https://fpt-booking.firebaseio.com",
+    "project_id": "fpt-booking",
+    "storage_bucket": "fpt-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59705492096:android:3ad9f3f79e5fd08ad59c65",
+        "android_client_info": {
+          "package_name": "com.ts.fptbookingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59705492096-clhk3jsrgrf8aa2qh7m9fjf1ch2nfd8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ts.fptbookingdemo",
+            "certificate_hash": "c1414cb4e57ddf51090b32b0d7d3288c09185d7a"
+          }
+        },
+        {
+          "client_id": "59705492096-kgj4tujnr5i2s8128t5eiesm0fmj8bmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3Rk0asnHXJEMfZfHsAT2sBMRzAV9qRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59705492096-kgj4tujnr5i2s8128t5eiesm0fmj8bmk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59705492096-hsg7kdi9v9f56tdpt8r6phpv3lkresc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ts.fptbookingdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
